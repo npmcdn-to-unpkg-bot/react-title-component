@@ -21,10 +21,10 @@ var Title = ReactTitle.default
 var flushTitle = ReactTitle.flushTitle
 ```
 
-The UMD build is also available on [npmcdn](https://npmcdn.com):
+The UMD build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://npmcdn.com/react-title-component/umd/ReactTitleComponent.min.js"></script>
+<script src="https://unpkg.com/react-title-component/umd/ReactTitleComponent.min.js"></script>
 ```
 
 You can find the library on `window.ReactTitle`.
